@@ -1,6 +1,6 @@
 ### Computer Science Major at Texas A&M Unviersity 
 
-Minoring in Cybersecurity
+Minoring in Business
 Member of Aggie Club of Engineers
 <!--
 **ericmcgonagle/ericmcgonagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
